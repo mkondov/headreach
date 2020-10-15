@@ -1,0 +1,10 @@
+<?php
+
+return [
+    'class' => 'yii\db\Connection',
+    'dsn' => 'mysql:host=localhost;dbname=headreach',
+    'username' => 'dbuser',
+    'password' => 'dbpass',
+    'emulatePrepare' => false,
+    'charset' => 'utf8',
+];

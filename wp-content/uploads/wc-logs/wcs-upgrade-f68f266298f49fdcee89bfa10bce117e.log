@@ -1,0 +1,4 @@
+06-26-2017 @ 19:41:07 - v2.1: Deleted cached subscription ranges.
+06-26-2017 @ 19:41:07 - v2.1: Set _schedule_cancelled date to post_modified_gmt column value for 0 subscriptions with wc-pending-cancel status.
+06-26-2017 @ 19:41:07 - v2.1: Set _schedule_cancelled date to post_modified_gmt column value for 178 subscriptions with wc-cancelled status.
+06-26-2017 @ 19:41:07 - 2.2.8 upgrade complete.

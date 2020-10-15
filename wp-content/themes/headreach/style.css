@@ -1,0 +1,98 @@
+/*
+Theme name: HeadReach
+Description: Custom Theme
+*/
+
+/******* HeadReach WordPress CSS *******/
+
+/* Common elements styling */
+
+p img { padding: 0;	max-width: 100%; }
+img.centered { display: block; margin-left: auto; margin-right: auto; }
+img.alignright { margin: 2px 0 2px 7px; display: inline; }
+img.alignleft { margin: 2px 7px 2px 0; display: inline; }
+.alignright { float: right; display: inline; }
+.alignleft { float: left; display: inline; }
+.aligncenter, div.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+
+/* Calendar widget */
+#wp-calendar { empty-cells: show; margin: 10px auto 0; }
+#wp-calendar #next a { padding-right: 10px; text-align: right; }
+#wp-calendar #prev a { padding-left: 10px; text-align: left; }
+#wp-calendar a { display: block; }
+#wp-calendar caption { text-align: center; width: 100%; }
+#wp-calendar td { padding: 3px 0; text-align: center; }
+.wp-caption { border: 1px solid #ddd; text-align: center; padding-top: 4px; margin: 10px; }
+.wp-caption img { margin: 0; padding: 0; border: 0 none; }
+.wp-caption p.wp-caption-text { font-size: 11px; line-height: 17px; padding: 0 4px 5px; margin: 0;}
+
+/* Big images in rich text editor should not break page layout */
+.post .entry { overflow: hidden; } 
+
+/******* /HeadReach WordPress CSS *******/
+
+body.logged-in.flex-account-page .row .woocommerce { display: flex; flex-flow: row wrap; width: 100%; }
+
+.small-collapse > .woocommerce > .column,
+.small-collapse > .woocommerce > .columns { padding-left: 0; padding-right: 0; }
+
+.woocommerce .is-active a { background: #fff none repeat scroll 0 0; color: #3d444a; }
+
+.woocommerce-account .woocommerce-MyAccount-content { float: none; width: 100%; }
+
+body.woocommerce-cart .woocommerce,
+body.woocommerce-checkout .woocommerce,
+.woocommerce .woo-wrapper { padding: 20px 20px 20px 20px; }
+
+body.woocommerce-cart .column .row.small-collapse,
+body.woocommerce-checkout .column .row.small-collapse { display: block; }
+
+body.woocommerce-checkout .woocommerce-checkout h3 { font-size: 25px; }
+body.woocommerce-checkout .woocommerce-billing-fields .form-row-wide input { width: 100%; max-width: none; }
+body.woocommerce-checkout #customer_details { margin-bottom: 25px; }
+
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt { color: #fff !important; font-weight: normal; }
+
+.button-subscription { background: #f67310; border: 1px solid transparent; border-radius: 4px; color: #fefefe;  display: inline-block; font-size: 1rem;
+    line-height: 1; padding: 0.7em 1em; text-align: center; vertical-align: middle;
+	transition: background-color 0.25s ease-out 0s, color 0.25s ease-out 0s;
+}
+
+.button-subscription:hover,
+.button-subscription:focus { background: #cc600e; color: #fefefe; }
+
+.woocommerce-info,
+ul.woocommerce-error { margin: 0 0 10px 0 !important; }
+.woocommerce form.login,
+.woocommerce form.checkout_coupon,
+.woocommerce form.register { border: none !important; }
+
+.woo-wrapper .images { display: none; }
+.woo-wrapper .summary .quantity { display: none; }
+
+.woocommerce-checkout .woocommerce-message { display: none; }
+
+.form-holder form { position: relative; padding: 10px; }
+.form-holder form .overlay { display: none; position: absolute; width: 100%; height: 100%; top: 0; left: 0; padding: 20px; }
+.form-holder form .overlay { background: rgba(255, 255, 255, 0.5) url(images/loading.gif) no-repeat center center; }
+
+.form-holder .callout { display: none; }
+
+.pay-with-card-message { margin: 8px 0 0 0; }
+.pay-with-card-message p { font-size: 12px; }
+
+.header { height: 52px!important }
+
+.order-actions a { margin-right: 10px; }
+tr.order .order-actions { margin: 0; padding: 0; }
+
+.intl-tel-input { display: block; margin: 0 0 1rem; }
+#phone { }
+
+.callout-admin { display: none; background-color: #fcd6d6; border: 1px solid hsla(0, 0%, 4%, 0.25); border-radius: 4px; color: #0a0a0a; margin: 0 0 1rem; padding: 1rem; position: relative; }
+.callout-admin p { margin-bottom: 0; }
+
+.subscription_details .button.change_payment_method { display: none; }

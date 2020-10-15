@@ -1,0 +1,84 @@
+.woocommerce-error,
+.woocommerce-info,
+.woocommerce-message {
+    padding: 1em 2em 1em 2em!important;
+    margin: 0!important;
+    position: relative;
+    list-style: none!important;
+    width: 100%;
+    word-wrap: break-word
+}
+
+.woocommerce-message, .woocommerce-info {
+	background: #e6f7d9;
+}
+
+.woocommerce-error {
+	background: #FCD6D3;
+}
+
+.woocommerce-message, .woocommerce-info  {
+    border-left:4px solid #84cc4e
+}
+
+.woocommerce-error {
+	border-left: 4px solid #d11818;
+}
+
+.woocommerce-checkout #payment {
+	background:#fff!important;
+	padding:0!important;
+}
+
+.wc_payment_method payment_method_paypal, .wc_payment_methods payment_methods, .woocommerce-checkout #payment ul.payment_methods, #customer_details .col-2, .product-quantity, .product-name, .product-total, .cart-subtotal, .recurring-totals, .order-total, .order-total.recurring-total th {
+	display: none!important;
+}
+
+
+
+.order-total.recurring-total {
+	display: block!important;
+}
+
+.order-total {
+	padding-bottom: 20px;
+}
+
+
+
+.required {
+	border:none!important;
+	cursor: none!important;
+}
+
+
+#billing_email, .woocommerce-checkout-review-order-table {
+	max-width: 450px;
+}
+
+.woocommerce-checkout .account-panel .row {
+	margin: 0 auto;
+	max-width: 470px;
+}
+
+.woocommerce-checkout {
+	margin:0 auto;
+}
+
+.woocommerce-Price-amount {
+	font-size: 1.5rem;
+}
+
+.first-payment-date {
+	font-weight: normal;
+}
+
+.order-total, .order-total th, .order-total td {
+	padding-left:0;
+	padding-right:0;
+}
+
+.woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt {
+	font-size: 1.2rem;
+	width: 100%;
+}

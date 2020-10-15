@@ -1,0 +1,35 @@
+*** WooCommerce Subscription Reports Changelog ***
+
+2016.11.30 - version 1.6
+ * Fix : Important changes replated to MRR calculation
+ * Fix : WooCommerce Subscription Reports not working properly in Multi-site environment
+ * Fix : Minor Fixes & CSS Changes
+
+2016.10.10 - version 1.5.1
+ * Update : Important changes replated to automatic updates of this plugin
+
+2016.08.04 - version 1.5
+ * Update : Quick help widget related changes
+ * Update : POT file
+
+2016.07.18 - version 1.4
+ * New : Quick help widget 
+ * Update : POT file
+ * Fix : Replaced 'die' with 'return' when checking wp_verify_nonce
+
+2016.06.20 - version 1.3.1
+ * Fix : Database Warnings when no subscription orders on activation
+
+2016.06.16 - version 1.3
+ * Update : Tested upto WooCommerce 2.6
+ * Update : POT file
+ * Fix : Upgrade file - Unnecessary calls for latest update on every background process
+
+2016.04.15 - version 1.2
+ * Fix: Partial Refunds not getting handled properly in calculation of some KPI's
+
+2016.03.18 - version 1.1
+ * Tweak: CSS Changes
+
+2016.03.03 - version 1.0
+ * First release

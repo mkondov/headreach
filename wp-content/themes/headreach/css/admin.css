@@ -1,0 +1,3 @@
+.admin-statistics-table { border: 1px solid #ddd; border-collapse: collapse; table-layout: fixed; }
+.admin-statistics-table td,
+.admin-statistics-table th { padding: 7px 5px; border: 1px solid #ddd; }

@@ -1,0 +1,258 @@
+# Copyright (C) 2016 Subscription Reports for WooCommerce
+# This file is distributed under the same license as the Subscription Reports for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscription Reports for WooCommerce 1.6\n"
+"Report-Msgid-Bugs-To: http://www.storeapps.org/support/contact-us/\n"
+"POT-Creation-Date: 2016-11-30 05:27:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: Wed, 30 Nov 2016 10:57:16 +0530\n"
+"Last-Translator: Ratnakar Dubey <ratnakar.dubey@storeapps.org>\n"
+"Language-Team: StoreApps <support@storeapps.org>\n"
+
+#: classes/class-subscription-reports-base.php:1751
+msgid "Plan"
+msgstr ""
+
+#: classes/class-subscription-reports-base.php:1752
+msgid "Customers"
+msgstr ""
+
+#: classes/class-subscription-reports-base.php:1753
+msgid "MRR"
+msgstr ""
+
+#: classes/class-subscription-reports-base.php:1754
+msgid "Churn Rate"
+msgstr ""
+
+#: classes/class-subscription-reports-base.php:1755
+msgid "LTV"
+msgstr ""
+
+#: classes/class-subscription-reports-base.php:1756
+msgid "ARPU"
+msgstr ""
+
+#: classes/class-subscription-reports-base.php:1757
+msgid "Sales"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:378
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:964
+msgid "License Key"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:381
+msgid "Validate"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:408
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:947
+msgid ""
+"Your license for %s %s. Please %s to continue receiving updates & support"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:408
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:947
+msgid "has expired"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:408
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:410
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:947
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:949
+msgid "renew your license now"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:410
+msgid ""
+"Your license for %s %swill expire in %d %s%s. Please %s to get %s50%% "
+"discount%s"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:410
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:949
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:755
+msgid "Name"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:759
+msgid "E-mail"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:763
+msgid "Product"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:767
+msgid "Subject"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:771
+msgid "Message"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:776
+msgid "Include plugins / environment details to help solve issue faster"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:784
+msgid "Send"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:816
+msgid "Documentation"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:816
+msgid "Docs"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:826
+msgid "Reset License Details"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:826
+msgid "Reset License"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:900
+msgid "A %s of %s is available. %s"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:900
+msgid "new version"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:900
+msgid "Update now"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:903
+msgid "%s"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:903
+msgid "Important"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:949
+msgid ""
+"Your license for %s %swill expire in %d %s%s. Please %s to get %sdiscount 50%"
+"%%s"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:952
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:965
+msgid "Dismiss"
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:964
+msgid "%s for %s is not found. Please %s to get automatic updates."
+msgstr ""
+
+#: sa-includes/class-storeapps-upgrade-v-1-4.php:964
+msgid "enter & validate license key"
+msgstr ""
+
+#: views/html-subscription-reports.php:63
+msgid ""
+"<strong>WooCommerce Subscription Reports Data Sync Required</strong> &#8211; "
+"We just need to sync your subscription orders for faster reporting"
+msgstr ""
+
+#: views/html-subscription-reports.php:64
+msgid "Sync Now"
+msgstr ""
+
+#: views/html-subscription-reports.php:413
+msgid "Select Date"
+msgstr ""
+
+#: views/html-subscription-reports.php:414
+msgid "Today"
+msgstr ""
+
+#: views/html-subscription-reports.php:415
+msgid "Yesterday"
+msgstr ""
+
+#: views/html-subscription-reports.php:416
+msgid "Current Week"
+msgstr ""
+
+#: views/html-subscription-reports.php:417
+msgid "Last Week"
+msgstr ""
+
+#: views/html-subscription-reports.php:418
+msgid "Current Month"
+msgstr ""
+
+#: views/html-subscription-reports.php:419
+msgid "Last Month"
+msgstr ""
+
+#: views/html-subscription-reports.php:420
+msgid "3 Months"
+msgstr ""
+
+#: views/html-subscription-reports.php:421
+msgid "6 Months"
+msgstr ""
+
+#: views/html-subscription-reports.php:422
+msgid "Current Year"
+msgstr ""
+
+#: views/html-subscription-reports.php:423
+msgid "Last Year"
+msgstr ""
+
+#: views/html-subscription-reports.php:424
+msgid "Custom Date"
+msgstr ""
+
+#: views/html-subscription-reports.php:435
+msgid "to"
+msgstr ""
+
+#: views/html-subscription-reports.php:437
+msgid "Go"
+msgstr ""
+
+#: woocommerce-subscription-reports.php:227
+msgid "Need Help?"
+msgstr ""
+
+#: woocommerce-subscription-reports.php:256
+msgid "Subscriptions"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Subscription Reports for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.storeapps.org/product/woocommerce-subscription-reports/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Analytics & Insights for WooCommerce Subscriptions"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Store Apps"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.storeapps.org/"
+msgstr ""

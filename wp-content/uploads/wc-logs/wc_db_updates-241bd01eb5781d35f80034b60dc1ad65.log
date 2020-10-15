@@ -1,0 +1,26 @@
+2017-06-25T10:37:12+00:00 INFO Queuing 3.0.0 - wc_update_300_webhooks
+2017-06-25T10:37:12+00:00 INFO Queuing 3.0.0 - wc_update_300_grouped_products
+2017-06-25T10:37:12+00:00 INFO Queuing 3.0.0 - wc_update_300_settings
+2017-06-25T10:37:12+00:00 INFO Queuing 3.0.0 - wc_update_300_product_visibility
+2017-06-25T10:37:12+00:00 INFO Queuing 3.0.0 - wc_update_300_db_version
+2017-06-25T10:37:13+00:00 INFO Running wc_update_300_webhooks callback
+2017-06-25T10:37:13+00:00 INFO Finished wc_update_300_webhooks callback
+2017-06-25T10:37:13+00:00 INFO Running wc_update_300_grouped_products callback
+2017-06-25T10:37:13+00:00 INFO Finished wc_update_300_grouped_products callback
+2017-06-25T10:37:13+00:00 INFO Running wc_update_300_settings callback
+2017-06-25T10:37:13+00:00 INFO Finished wc_update_300_settings callback
+2017-06-25T10:37:13+00:00 INFO Running wc_update_300_product_visibility callback
+2017-06-25T10:37:13+00:00 INFO Finished wc_update_300_product_visibility callback
+2017-06-25T10:37:13+00:00 INFO Running wc_update_300_db_version callback
+2017-06-25T10:37:13+00:00 INFO Finished wc_update_300_db_version callback
+2017-06-25T10:37:13+00:00 INFO Data update complete
+2017-07-25T15:39:42+00:00 INFO Queuing 3.1.0 - wc_update_310_downloadable_products
+2017-07-25T15:39:42+00:00 INFO Queuing 3.1.0 - wc_update_310_old_comments
+2017-07-25T15:39:42+00:00 INFO Queuing 3.1.0 - wc_update_310_db_version
+2017-07-25T15:39:43+00:00 INFO Running wc_update_310_downloadable_products callback
+2017-07-25T15:39:43+00:00 INFO Finished wc_update_310_downloadable_products callback
+2017-07-25T15:39:43+00:00 INFO Running wc_update_310_old_comments callback
+2017-07-25T15:39:43+00:00 INFO Finished wc_update_310_old_comments callback
+2017-07-25T15:39:43+00:00 INFO Running wc_update_310_db_version callback
+2017-07-25T15:39:43+00:00 INFO Finished wc_update_310_db_version callback
+2017-07-25T15:39:43+00:00 INFO Data update complete

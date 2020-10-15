@@ -1,0 +1,290 @@
+/*For Mobile*/
+@media (max-width: 557px) {
+  #wsr_kpi {
+    margin-left: 0em !important;
+    text-align: center;
+  }
+
+  #wsr_custom_date {
+    float: left;
+  }
+
+  #wsr_start_date {
+    margin-left: 0em !important;
+  }
+
+  #wsr_custom_date_submit {
+    margin-left: 0em !important;
+  }
+
+  #wsr_cumm_date {
+    height: 6.7em !important;
+  }
+
+  #wsr_smart_date_select{
+    height: 2.1em !important;
+  }
+}
+
+
+.wsr_kpi_first {
+  color: #12B41F;
+}
+
+.wsr_kpi_second {
+  color: #12ADC2;
+}
+
+.wsr_kpi_third {
+  color: #f86868;
+}
+
+.wsr_kpi_widget { 
+  /*float: left;*/
+  display: inline-table;
+  width: 50%;
+  height: 7em;
+  /*border: 0.2em solid #e8e8e8;*/
+  /*border-radius: 50%;*/
+  /*margin-left: 7.5em;*/
+  /*margin-bottom: 1.5em;*/
+  margin-top: 0.29em;
+  /*background-color: #FFFFFF;*/
+}
+
+.wsr_cumm_kpi_widget { 
+  /*float: left;*/
+  display: inline-table;
+  width: 30.8%;
+  min-width: 24em;
+  height: 11.95em;
+  /*border: 0.2em solid #e8e8e8;*/
+  margin-left: 1.6em;
+  margin-bottom: 1.5em;
+  margin-top: 0.29em;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 1px #dae1e3;
+  /*box-shadow: 0 1px 1px #E8E8E8;*/
+  border-radius: 5px;
+}
+
+.wsr_kpi_data {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.wsr_kpi_price {
+  font-size : 4em;
+  /*color: #4083D8;*/
+  font-weight: 500 !important;
+  margin-top: 0.9em;  
+}
+
+.wsr_kpi_cur_dec {
+  font-size : 2.3rem !important;
+}
+
+.wsr_cumm_kpi_price {
+  font-size : 2.6em !important;
+  font-weight: 600 !important;;
+  margin-left : 0.25em !important;
+  padding : 0 !important;
+  /*color: #49A6DD;*/
+  /*color: #04A0BD;*/
+  color: #007DB8;
+  /*width: 61%;
+  float: left;*/
+}
+
+.wsr_cumm_comp_price {
+  font-size: 1.3em !important;
+  font-weight: bold !important;
+  float: left;
+  padding: 0.2em !important;
+  /*padding-right: 0 !important;
+  padding-left: 0.2em !important;*/
+}
+
+.wsr_kpi_text {
+  margin-top: 0.99em;
+  color: #727277;
+  font-weight: bold;
+  font-size: 0.93em;
+}
+
+.wsr_cumm_kpi_cur_dec {
+  font-size : 1.7rem !important;
+}
+
+.wsr_cumm_kpi_comp_cur_dec {
+  font-size : 0.9rem !important; 
+}
+
+.wsr_cumm_kpi_text {
+  margin-top: 0.7em;
+  margin-left: 0.7em;
+  /*width: 61%;
+  float: left;*/
+}
+
+.icon_cumm_indicator {
+  /*font-size: 16px;
+  line-height: 9px;*/
+  float: left;
+  font-size: 1.2em;
+  margin-top: 0.75em;
+}
+
+.green { 
+  /*color: #49C166 !important;*/
+  color: #60B264 !important;
+}
+
+.red {
+  /*color: #DD2728 !important;*/
+  color: #E34F4C !important;
+}
+
+.wsr_cell_green { 
+  background-color: #83C386 !important;
+  font-weight: bold;
+}
+
+.wsr_cell_red {
+  background-color: #FF7370 !important;
+  font-weight: bold;
+}
+
+
+#wsr_kpi {
+  margin-left: 1.5em;
+}
+
+#wsr_top_sub_prod_container {
+  margin-left: 1.5em !important;
+  display: inline-table;
+  width: 96.7%;
+}
+
+#wsr_top_sub_prod {
+  background: #FFFFFF;
+  /*border: 0.2em solid #e8e8e8;*/
+  border-collapse: collapse;
+  box-shadow: 0 1px 1px #dae1e3;
+  margin-top: 0.5em;
+}
+
+#wsr_top_sub_prod th {
+  /*background: #7F7E7E;*/
+  /*background: #EAEAEA;*/
+  color: #666363;
+  font-weight: bold;
+  font-size: 1.2em !important;
+  border-bottom: 0.1em solid black !important;
+  padding: 0.65em !important;
+}
+
+#wsr_top_sub_prod th, #wsr_top_sub_prod td {
+  border: 0.1em solid #e8e8e8;
+  text-align: right;
+  padding: 6px;
+}
+
+#wsr_top_sub_prod td {
+  font-size: 1.1em;
+}
+
+.wsr_kpi_trend {
+  z-index: 1;
+  float: right;
+  width: auto;
+  margin: 0.15em 0.5em 0 0;
+  /*border: 1px solid #dae1e3;
+  border-radius: 3px;*/
+  padding: 0 0.3em 0;
+  /*background-color: rgba(255,255,255,0.3);*/
+  line-height: 0em !important;
+}
+
+#wsr_top_sub_prod_title {
+  color: #727277;
+  font-size: 1.2em;
+}
+
+#wsr_sync_link {
+  /*margin-left: 35%;*/
+  font-size: 1.5em;
+  font-weight: 800;
+  width: 11em;
+  /*height: 1.8em;*/
+  text-align: center;
+  /*padding-top: 0.1em;*/
+  text-shadow: none;
+}
+
+#wsr_sync_link:disabled {
+  font-size: 1em;
+}
+
+#wsr_cumm_kpi_field legend {
+  padding: 1em;
+  margin: auto;
+  text-transform: uppercase;
+  color: #727277;
+  font-size: 1.2em;
+}
+
+.wsr_cumm_date {
+  height: 2.3em;
+  float: left;
+  width: 45%;
+  margin-left: 19.5em;
+  margin-top: 1.4em;
+  margin-right: 0.3em;
+  /*border-bottom: 0.2em solid #368ee0;*/
+  /*border-bottom: 0.1em solid #A1A1A1;*/
+}
+
+#wsr_start_date {
+  margin-left: 2em;
+}
+
+.wsr_cumm_date_picker {
+  float: left;
+}
+
+.wsr_cumm_date_label {
+  color: #727277;
+  font-size: 1em;
+  margin: 0.4em;
+  margin-top: 0.2em;
+}
+
+#wsr_end_date, #wsr_start_date {
+    font-size: 1.2em;
+    /*margin-top: -0.05em;*/
+    /*height: 1.7em;*/
+}
+
+#wsr_custom_date_submit {
+  margin-left: 0.8em;
+  margin-top: 0.1em;
+  height: 2.35em;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+.wsr_top_prod_price {
+  background-color: #f0f5f7;
+  border-radius: 3px;
+  /*color: #a1abb3;*/
+  color: #82909B;
+  padding: 0.125rem 0.375rem;
+  margin-left: 0.375rem;
+  font-size: 0.65rem;
+}
+
+/*For hiding the update notices on subscriptions page*/
+.update-nag, .updated, .error { 
+  display: none; 
+}

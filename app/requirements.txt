@@ -1,0 +1,4 @@
+simplejson==3.8.2
+beautifulsoup4==4.4.1
+requests==2.6.0
+selenium==2.49.2

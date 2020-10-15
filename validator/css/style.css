@@ -1,0 +1,28 @@
+*{margin;0;padding:0}
+body{font-family: 'Roboto', sans-serif;}
+h1,h2,h3,h4,h5,h6{font-weight:bold}
+.button {
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #5bd56c;
+  background-color: #5bd56c;
+  font-family: roboto;
+  font-weight: 400;
+  font-size: 16px;
+  color: #fff;
+}
+.structure{width:960px;margin:0 auto;display:block}
+.fix{overflow: hidden}
+.header_area{}
+.header{}
+.csv_form_area{border-bottom:1px solid #666}
+.csv_form{}
+.email_permutator_area{}
+.email_permutator{}
+.footer_area{}
+.footer{}
+span{margin-left: 22px}
+.valid{height:20px}
+.invalid{height:20px}
